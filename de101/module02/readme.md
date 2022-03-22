@@ -1,6 +1,6 @@
 # Homework
 
-## Creating Tables in PostgreSQL (Connector DBeaver)
+## 1.Creating Tables in PostgreSQL (Connector DBeaver)
 
 Table Orders
 ![Create Orders](https://user-images.githubusercontent.com/101666279/159480363-849a785c-92cd-4064-9017-0b2f212e32ac.png)
