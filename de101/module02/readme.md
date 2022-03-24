@@ -24,7 +24,7 @@ from orders
 ### Profit Ratio
 select
 
-sum(sales), sum(profit), sum(profit)/sum(sales)* 100 as Profit_ratio
+sum(sales), sum(profit), sum(profit)/sum(sales)*100 as Profit_ratio
 
 from orders
 
