@@ -17,3 +17,8 @@
 ### Total Sales
 ![Total Sales](https://user-images.githubusercontent.com/101666279/159893199-84169dbd-0358-425a-919f-ae27c8ec55aa.png)
 
+### Total Profit
+![Total Profit](https://user-images.githubusercontent.com/101666279/159894189-112d23cc-c0e5-4af9-bd5c-6987ac8ff0ee.png)
+
+### Profit Ratio
+![Profit Ratio](https://user-images.githubusercontent.com/101666279/159897397-88da5f29-ebfd-4d92-9f9c-07302117ca01.png)
