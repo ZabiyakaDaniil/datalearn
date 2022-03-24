@@ -2,9 +2,11 @@
 
 ## 1. Creating Tables in PostgreSQL (Connector DBeaver)
 
-[Table Orders](https://github.com/ZabiyakaDaniil/datalearn/blob/main/de101/module02/Orders.sql)
+[Orders](https://github.com/ZabiyakaDaniil/datalearn/blob/main/de101/module02/Orders.sql)
 
-Table People
+[People](https://github.com/ZabiyakaDaniil/datalearn/blob/main/de101/module02/people.sql)
+
+[Returns](https://github.com/ZabiyakaDaniil/datalearn/blob/main/de101/module02/returns.sql)
 
 ## 2. Data analyzing from Module 01 (Sample Superstore), but through SQL instead Excel.
 
