@@ -22,3 +22,6 @@
 
 ### Profit Ratio
 ![Profit Ratio](https://user-images.githubusercontent.com/101666279/159897397-88da5f29-ebfd-4d92-9f9c-07302117ca01.png)
+
+### Avg.Discount
+![Avg  Discount](https://user-images.githubusercontent.com/101666279/159899775-692d8911-bfda-47ff-99c4-1f8192b2ab1e.png)
