@@ -10,3 +10,5 @@
 
 ### Table Returns
 ![Create Returns](https://user-images.githubusercontent.com/101666279/159480458-c419b1be-975a-4f7e-8383-4a5a3e4c0bd7.png)
+
+## 2. Data analyzing from Module 01 (Sample Superstore), but through SQL instead Excel.
