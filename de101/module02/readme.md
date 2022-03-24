@@ -15,10 +15,5 @@
 ## 2. Data analyzing from Module 01 (Sample Superstore), but through SQL instead Excel.
 
 ### Total Sales
-select 
+![Total Sales](https://user-images.githubusercontent.com/101666279/159893199-84169dbd-0358-425a-919f-ae27c8ec55aa.png)
 
-sum(sales)
-
-from orders
-
-Result - 2,297,299.8603
