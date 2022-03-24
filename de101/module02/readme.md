@@ -16,7 +16,9 @@
 
 ### Total Sales
 select 
+
 sum(sales)
+
 from orders
 
 Result - 2,297,299.8603
