@@ -11,27 +11,4 @@
 
 ## 2. Data analyzing from Module 01 (Sample Superstore), but through SQL instead Excel.
 
-### --Total Sales
-
-select
-sum(sales)
-from orders
-
-### --Total Profit
-
-select
-sum(profit)
-from orders
-
-### --Profit Ratio
-
-select
-sum(sales), sum(profit), sum(profit)/sum(sales)*100 as Profit_ratio
-from orders
-
-### --Avg.Discount
-
-select
-avg(discount)*100
-from orders
-
+[Queries](https://github.com/ZabiyakaDaniil/datalearn/blob/main/de101/module02/SQL%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.sql)
